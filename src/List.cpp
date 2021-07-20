@@ -6,11 +6,6 @@
  */
 
 #include "List.h"
-/*
- * This is the cpp file for the 
- * List.h header class
- * 
- */
 
 template<typename T>
 List<T>::List() {
